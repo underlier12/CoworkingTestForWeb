@@ -1,5 +1,5 @@
 front1
-
+Hello :)
 front2
 hi my name is chaeeun!
 
